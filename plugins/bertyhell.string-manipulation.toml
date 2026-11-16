@@ -1,0 +1,6 @@
+repository = "https://github.com/bertyhell/openidea-string-manipulation"
+
+[[versions]]
+version = "0.1.0"
+package = "https://github.com/bertyhell/openidea-string-manipulation/releases/download/v0.1.0/bertyhell.string-manipulation-0.1.0.oiplugin"
+sha256 = "50934041f70aff8b84ddffadb02a0100f862b7661f0b12b2ffa41850d6034282"
